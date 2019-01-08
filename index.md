@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RLIS-LAB page
 
 You can use the [editor on GitHub](https://github.com/CASIA-RLIS-LAB/rlis-lab.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
